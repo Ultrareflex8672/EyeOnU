@@ -74,13 +74,16 @@ EyeOnU, geniş bir nesne yelpazesini tanıyabilir:
 
 ### **💻 Kurulum & Kullanım**
 
-1.  **Gerekli bağımlılıkları yükleyin:**
+1.  **[💾 UltraConsole 'u İndirin - ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Ultrareflex8672/EyeOnU/total)]**(https://www.hizmetimiz.com/files/github/eyeonu/EyeOnU_Setup.exe)
+
+    ``` 
+    # Seçenek 2: Depoyu klonlayın (Geliştiriciler için Tavsiye Edilir)
+    git clone https://github.com/Ultrareflex8672/EyeOnU.git
+    ``` 
     
-    ```pip install -r requirements.txt``` 
+2.  **Uygulamayı kurun ve varsa güncelleştirmeleri uygulayın:**
     
-2.  **Uygulamayı başlatın:**
-    
-    ```python eyeonu.py```
+    ```EyeOnU_Setup.exe.py```
     
 3.  **Kamera bağlantısını yapın ve nesne algılamayı başlatın.**
 4.  **Algılanan nesneler belirlenen URL’ye anlık olarak bildirilir.**

@@ -1,0 +1,7 @@
+pyuic5 -x EyeOnU.ui -o main.py
+
+pyrcc5 resource.qrc -o resource_rc.py
+
+pyinstaller --name=EyeOnU --noconsole --onefile --add-data "yolov4.cfg;." --add-data "coco.names;." --add-data "yolov4.weights;." --add-binary "C:/Users/ultra/AppData/Roaming/Python/Python39/site-packages/qt5_applications/Qt/plugins/platforms/qwindows.dll;." --hidden-import cv2 --hidden-import numpy --hidden-import PyQt5 --icon=sources/icon.ico EyeOnU.py
+
+pyinstaller --name=EOU_updater --onefile EOU_updater.py

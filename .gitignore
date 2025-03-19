@@ -4,3 +4,5 @@ dist
 build
 yolov4.weights
 yolov4.cfg
+*.spec
+*.zip
