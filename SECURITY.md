@@ -1,4 +1,4 @@
-# EyeOnu Güvenlik Politikası
+# EyeOnU Güvenlik Politikası
 
 EyeOnu olarak güvenliği en üst düzeyde tutuyor ve potansiyel güvenlik açıklarını en kısa sürede çözmeyi hedefliyoruz. Bu belge, güvenlik açıklarını nasıl bildireceğinizi ve bizim güvenlik süreçlerimizi açıklar.
 
