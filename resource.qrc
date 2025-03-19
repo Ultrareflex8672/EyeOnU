@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>sources/icon.png</file>
+	<file>sources/github.png</file>
+	<file>sources/info.png</file>
+	<file>sources/setting.png</file>
+	<file>sources/scan.png</file>
+	<file>sources/objects.png</file>
+	<file>sources/save.png</file>
+	<file>sources/clear.png</file>
+	<file>sources/update.png</file>
+  </qresource>
+</RCC>

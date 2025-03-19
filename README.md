@@ -87,10 +87,45 @@ EyeOnU, geniş bir nesne yelpazesini tanıyabilir:
 
 ----------
 
-### **📜 Lisans ve Katkı**
+## 📌 Katkıda Bulunma
 
-Bu proje açık kaynaklıdır ve GitHub üzerinden katkıda bulunabilirsiniz!
+Katkılarınızı bekliyoruz! Yeni modüller ekleyerek veya mevcut kodu geliştirerek projeye destek olabilirsiniz. PR'lerinizi açabilirsiniz.
+
+----------
+
+## 🏷️ Versiyon Geçmişi
+
+UltraConsole [Versiyon Geçmişi](https://github.com/Ultrareflex8672/EyeOnU/blob/main/CHANGELOG.md)
+
+----------
+
+## 📜 Lisans
+
+Bu proje [MIT Lisansı](https://github.com/Ultrareflex8672/EyeOnU/tree/main?tab=MIT-1-ov-file) altında lisanslanmıştır.
+
+----------
+
+## 🔒 Güvenlik
+
+UltraConsole Güvenlik Politikasına [buradan ulaşabilirsiniz.](https://github.com/Ultrareflex8672/EyeOnU?tab=security-ov-file) 
+
+----------
+
+## 🤝 Davranış Kuralları
+
+UltraConsole Davranış Kurallarına [buradan ulaşabilirsiniz.](https://github.com/Ultrareflex8672/EyeOnU?tab=coc-ov-file) 
+
+----------
 
 🔗 **[GitHub Proje Sayfası](https://github.com/Ultrareflex8672/EyeOnU)**
 
 🚀 **EyeOnU ile güvenliği ve nesne algılamayı bir üst seviyeye taşıyın!**
+
+<hr>
+
+<p align="center">
+<a href="https://twitter.com/ultrareflexofcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultrareflexofcl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kemalburakyildirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalburakyildirim" height="30" width="40" /></a>
+<a href="https://fb.com/ultrareflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ultrareflex" height="30" width="40" /></a>
+<a href="https://instagram.com/kemalburakyildirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kemalburakyildirim" height="30" width="40" /></a>
+</p>
