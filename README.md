@@ -3,8 +3,7 @@
 
 **Geliştirici:** Kemal Burak YILDIRIM  
 **GitHub:** [Ultrareflex8672](https://github.com/Ultrareflex8672)  
-**E-Posta:** ultrareflex@ultrareflex.com  
-**Proje Adresi:** [EyeOnU GitHub](https://github.com/Ultrareflex8672/EyeOnU)
+**E-Posta:** ultrareflex@ultrareflex.com
 
 ----------
 
@@ -74,7 +73,7 @@ EyeOnU, geniş bir nesne yelpazesini tanıyabilir:
 
 ### **💻 Kurulum & Kullanım**
 
-1.  **[💾 UltraConsole 'u İndirin - ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Ultrareflex8672/EyeOnU/total)]**(https://www.hizmetimiz.com/files/github/eyeonu/EyeOnU_Setup.exe)
+1.  **[💾 UltraConsole 'u Buradan İndirin]**(https://www.hizmetimiz.com/files/github/eyeonu/EyeOnU_Setup.exe)
 
     ``` 
     # Seçenek 2: Depoyu klonlayın (Geliştiriciler için Tavsiye Edilir)
@@ -119,8 +118,6 @@ UltraConsole Güvenlik Politikasına [buradan ulaşabilirsiniz.](https://github.
 UltraConsole Davranış Kurallarına [buradan ulaşabilirsiniz.](https://github.com/Ultrareflex8672/EyeOnU?tab=coc-ov-file) 
 
 ----------
-
-🔗 **[GitHub Proje Sayfası](https://github.com/Ultrareflex8672/EyeOnU)**
 
 🚀 **EyeOnU ile güvenliği ve nesne algılamayı bir üst seviyeye taşıyın!**
 
