@@ -1,6 +1,6 @@
-# EyeOnu Güvenlik Politikası
+# EyeOnU Güvenlik Politikası
 
-EyeOnu olarak güvenliği en üst düzeyde tutuyor ve potansiyel güvenlik açıklarını en kısa sürede çözmeyi hedefliyoruz. Bu belge, güvenlik açıklarını nasıl bildireceğinizi ve bizim güvenlik süreçlerimizi açıklar.
+EyeOnU olarak güvenliği en üst düzeyde tutuyor ve potansiyel güvenlik açıklarını en kısa sürede çözmeyi hedefliyoruz. Bu belge, güvenlik açıklarını nasıl bildireceğinizi ve bizim güvenlik süreçlerimizi açıklar.
 
 ## 📌 Desteklenen Sürümler
 
@@ -14,7 +14,7 @@ Aşağıdaki tabloda, aktif olarak desteklenen ve güvenlik güncellemeleri alac
 
 ## 🚨 Güvenlik Açıklarını Bildirme
 
-Eğer EyeOnu'de bir güvenlik açığı bulduysanız, lütfen aşağıdaki adımları takip ederek bildirimde bulunun:
+Eğer EyeOnU'de bir güvenlik açığı bulduysanız, lütfen aşağıdaki adımları takip ederek bildirimde bulunun:
 
 1. **Açığı herkese açık bir ortamda paylaşmayın.**  
 2. Güvenlik ekibimize şu e-posta adresi üzerinden özel olarak bildirin: **ultrareflex@ultrareflex.com**  
@@ -35,7 +35,7 @@ Bir güvenlik açığı bildirildiğinde şu adımları takip ederiz:
 
 ## 🛠 Güvenlik İpuçları
 
-EyeOnu kullanırken daha güvenli bir deneyim için aşağıdaki önerilere dikkat edin:
+EyeOnU kullanırken daha güvenli bir deneyim için aşağıdaki önerilere dikkat edin:
 
 - Güncellemeleri düzenli olarak kontrol edin ve en son sürümü kullanın.
 - Bilinmeyen kaynaklardan gelen eklentileri veya modülleri yüklemeyin.
@@ -43,10 +43,10 @@ EyeOnu kullanırken daha güvenli bir deneyim için aşağıdaki önerilere dikk
 
 ## 📜 Lisans
 
-EyeOnu'un güvenlik politikası, açık kaynak ruhuna uygun olarak oluşturulmuştur. Daha fazla bilgi için lütfen [Lisans Dosyamıza](https://github.com/Ultrareflex8672/EyeOnU?tab=MIT-1-ov-file) göz atın.
+EyeOnU'un güvenlik politikası, açık kaynak ruhuna uygun olarak oluşturulmuştur. Daha fazla bilgi için lütfen [Lisans Dosyamıza](https://github.com/Ultrareflex8672/EyeOnU?tab=MIT-1-ov-file) göz atın.
 
 ---
 
 Teşekkürler,  
-**EyeOnu**  
+**EyeOnU**  
 ultrareflex@ultrareflex.com
