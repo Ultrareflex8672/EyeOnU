@@ -11,6 +11,8 @@
 
 EyeOnU, yapay zeka ile geliştirilmiş, kamera görüntüsünü analiz ederek belirli nesneleri **gerçek zamanlı** olarak algılayıp verilen bir **URL’ye bildirim gönderen** bir sistemdir. **PyQt5** Kullanıcı dostu bir arayüze sahip olan EyeOnU, **olay kayıtlarını** hem arayüzde liste halinde gösterir hem de bir **log dosyasında** saklar.
 
+[▶️ **Tanıtım ve Kurulum Videosunu İzle** 🎥](https://www.hizmetimiz.com/files/github/eyeonu/)
+
 ----------
 
 ### **🚀 Özellikler**
