@@ -8,8 +8,9 @@ Aşağıdaki tabloda, aktif olarak desteklenen ve güvenlik güncellemeleri alac
 
 | Sürüm              | Destek Durumu                               |
 |--------------------|---------------------------------------------|
+| V2.0.0.1 Latest    | ✅ Destekleniyor                           |
 | V2.0.0.0 Latest    | ✅ Destekleniyor                           |
-| V1.0.0.0 Latest    | ✅ Destekleniyor                           |
+| V1.0.0.0 Latest    | ❌ Desteklenmiyor                          |
 | Daha Eski Sürümler | ❌ Desteklenmiyor                          |
 
 ## 🚨 Güvenlik Açıklarını Bildirme

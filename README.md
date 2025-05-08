@@ -75,7 +75,7 @@ EyeOnU, geniş bir nesne yelpazesini tanıyabilir:
 
 ### **💻 Kurulum & Kullanım**
 
-1.  **[💾 UltraConsole 'u Buradan İndirin](https://www.hizmetimiz.com/files/github/eyeonu/EyeOnU_Setup.exe)**
+1.  **[💾 EyeOnU 'u Buradan İndirin](https://www.hizmetimiz.com/files/github/eyeonu/EyeOnU_Setup.exe)**
 
     ``` 
     # Seçenek 2: Depoyu klonlayın (Geliştiriciler için Tavsiye Edilir)
