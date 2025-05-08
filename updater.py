@@ -22,7 +22,7 @@ class Updater(HTMLParser):
         """Başlangıç etiketini işleyerek id kontrolü yap"""
         if tag == "b":  # Sadece <b> etiketlerine odaklan
             for attr, value in attrs:
-                if attr == "id" and value == "user-content-version":
+                if attr == "id" and value == "version":
                     self.is_target = True
 
     def handle_endtag(self, tag):
@@ -37,7 +37,7 @@ class Updater(HTMLParser):
 
     def version(self):
         # Web sayfasından HTML içeriğini al
-        url = "https://github.com/Ultrareflex8672/EyeOnU/blob/main/CHANGELOG.md"
+        url = "https://raw.githubusercontent.com/Ultrareflex8672/EyeOnU/refs/heads/main/CHANGELOG.md"
         with urllib.request.urlopen(url) as response:
             html_content = response.read().decode("utf-8")
 
@@ -49,3 +49,9 @@ class Updater(HTMLParser):
 
         # Bulunan veriyi yazdır
         return new_version, self.current_version
+    
+# if __name__ == "__main__":
+#     updater = Updater()
+#     new_version, current_version = updater.version()
+#     print("New version:", new_version)
+#     print("Current version:", current_version)
